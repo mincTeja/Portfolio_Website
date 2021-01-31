@@ -117,6 +117,14 @@ main {
     width: 15px;
 }
 
+.social-links-flex {
+    margin-left: 250px;
+}
+
+.social-links-flex ul {
+    list-style: none;
+}
+
 
 .footer{
     background-color: #333;

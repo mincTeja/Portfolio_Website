@@ -113,7 +113,8 @@ main {
  }
 
  .social-links ul li{
-    
+    height: 25px;
+    width: 15px;
 }
 
 

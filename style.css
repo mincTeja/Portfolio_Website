@@ -50,6 +50,35 @@ main {
     display: inline-block;
 }
 
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.projects-heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.flex-item {
+    position: relative;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.flex-item h3{
+    text-align: center;
+}
+
+.flex-item:hover {
+    background: chartreuse;
+}
+
 .footer{
     background-color: #333;
     text-align: center;

@@ -108,6 +108,15 @@ main {
  
  }
 
+ .social-links ul{
+     list-style: none;
+ }
+
+ .social-links ul li{
+    
+}
+
+
 .footer{
     background-color: #333;
     text-align: center;

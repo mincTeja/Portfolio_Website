@@ -58,6 +58,10 @@ main {
     
 }
 
+.about-name {
+    color: rgb(235, 105, 18);
+}
+
 .projects-heading {
     text-align: center;
     margin-bottom: 30px;

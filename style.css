@@ -60,6 +60,7 @@ main {
 .projects-heading {
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 50px;
 }
 
 .flex-item {
@@ -83,6 +84,11 @@ main {
     display: flex;
     box-shadow: 0 5px 15px rgba(0,0,0,.1);
     padding: 20px 20px;
+
+}
+
+.about-himateja p {
+   margin: 30px 10px 10px 10px;
 
 }
 

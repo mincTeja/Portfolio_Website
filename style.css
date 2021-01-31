@@ -1,4 +1,12 @@
 
+body{
+    position: relative;
+    min-height: 100vh;
+}
+main {
+    margin: 20px;
+
+}
 .top-nav-bar {
     background-color: #333;
     overflow: hidden;
@@ -37,4 +45,14 @@
     padding: 10px 10px;
     font-size: 20px;
     display: inline-block;
+}
+
+.footer{
+    background-color: #333;
+    text-align: center;
+    color: #ddd;
+    padding: 10px 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
